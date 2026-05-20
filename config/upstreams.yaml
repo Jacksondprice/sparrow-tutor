@@ -1,0 +1,4 @@
+upstreams:
+  sis: https://sis.sparrow-tutor.internal/api
+  reporting: http://reports-staging.corp.local:8080
+  db_host: sparrowtutor-db.internal:5432
